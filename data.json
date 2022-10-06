@@ -1,0 +1,385 @@
+[
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"01",
+        "product_name": "ROG flow",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/CA22800D-AF8C-445D-BC2D-DCCBF395B682/w750/h470"
+                
+            }
+        
+    },
+     {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"01",
+        "product_name": "ROG flow",
+        "sub_product_id":"1",
+        "sub_product_name":"ROG Flow X13 (2022) GV301RA-LJ031WS",
+        "price":147990.00,
+        "OS":"windows 11",
+        "Processor":"AMD Ryzen™ 7 6800HS Mobile Processor",
+        "Graphics":"AMD Radeon™ 680M IGPU",
+        "Memory":"8GB*2 LPDDR5 on board",
+        "Storage":"1TB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
+        "Battery":"62WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/D2AE4AF4-273F-4A60-BD58-F1A4D811077D/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"01",
+        "product_name": "ROG flow",
+        "sub_product_id":"2",
+        "sub_product_name":"ROG Flow X16 (2022) GV601 GV601RE-M6012WS",
+        "price":171990.00,
+        "OS":"windows 11",
+        "Processor":"AMD Ryzen™ 7 6800HS Mobile Processor",
+        "Graphics":"NVIDIA® GeForce RTX™ 3050 Ti Laptop GPU",
+        "Memory":"Support dual channel memory",
+        "Storage":"1TB PCIe® 4.0 NVMe™ M.2 SSD",
+        "Battery":"90WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/0030A4D5-3A07-44A3-AFBB-803FF9D19070/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"01",
+        "product_name": "ROG flow",
+        "sub_product_id":"3",
+        "sub_product_name":"ROG Flow Z13 (2022) GZ301ZA-LD049WS",
+        "price":136990.00,
+        "OS":"windows 11",
+        "Processor":"12th Gen Intel® Core™ i5-12500H Processor",
+        "Graphics":"Intel® Iris Xᵉ Graphics",
+        "Memory":"8GB*2 LPDDR5 on board",
+        "Storage":"512GB PCIe® 4.0 NVMe™ M.2 SSD (2230)",
+        "Battery":"56WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/C13740D0-1E7D-4642-8E90-72BB95154EF0/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"02",
+        "product_name": "ROG zephyrus",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/E3277537-D241-4BE1-B7DC-4CCDB48458FC/w750/h470"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"02",
+        "product_name": "ROG zephyrus",
+        "sub_product_id":"1",
+        "sub_product_name":"ROG Zephyrus G14 (2022) GA402RJZ-L4135WS",
+        "price":149990.00,
+        "OS":"windows 11",
+        "Processor":"AMD Ryzen™ 7 6800HS Mobile Processor ",
+        "Graphics":"AMD Radeon™ RX 6700S",
+        "Memory":"8GB DDR5 on board + 8GB DDR5 4800Mhz SO-DIMM",
+        "Storage":"1TB PCIe® 4.0 NVMe™ M.2 SSD",
+        "Battery":"76WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/67D69C31-380C-48A0-89BF-5E0350891DE2/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"02",
+        "product_name": "ROG zephyrus",
+        "sub_product_id":"2",
+        "sub_product_name":"ROG Zephyrus Duo 16 (2022) GX650RM-LS019WS",
+        "price":249990.00,
+        "OS":"windows 11",
+        "Processor":"AMD Ryzen™ 7 6800H Mobile Processor",
+        "Graphics":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Memory":"16GB DDR5 4800Mhz SO-DIMM",
+        "Storage":"2TB M.2 NVMe™ PCIe® 4.0 SSD",
+        "Battery":"90WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/B6AFE039-AECC-4EE1-9462-D0B47585C71C/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"02",
+        "product_name": "ROG zephyrus",
+        "sub_product_id":"3",
+        "sub_product_name":"ROG Zephyrus G15 (2022) GA503RM-HQ111WS",
+        "price":157990.00,
+        "OS":"windows 11",
+        "Processor":"AMD Ryzen™ 7 6800HS Mobile Processor",
+        "Graphics":"NVIDIA® GeForce RTX™ 3060 Laptop GPU",
+        "Memory":"8GB DDR5 on board + 8GB DDR5 4800Mhz SO-DIMM",
+        "Storage":"1TB PCIe® 4.0 NVMe™ M.2 SSD",
+        "Battery":"90WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/350738D0-7C30-46CA-A84A-22D71BCF5AFB/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"03",
+        "product_name": "ROG strix",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/A03D9DCF-D601-4C1E-B20E-85AD8DF47788/w750/h470"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"03",
+        "product_name": "ROG strix",
+        "sub_product_id":"1",
+        "sub_product_name":"ROG Strix Scar 17 SE (2022) G733CX-LL013WS",
+        "price":359990.00,
+        "OS":"windows 11",
+        "Processor":"12th Gen Intel® Core™ i9-12950HX Processor",
+        "Graphics":"NVIDIA® GeForce RTX™ 3080 Ti Laptop GPU",
+        "Memory":"16GB DDR5 4800Mhz SO-DIMM",
+        "Storage":"1TB + 1TB PCIe® 4.0 NVMe™ M.2 Performace SSD (RAID 0)",
+        "Battery":"90WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/056EB3AC-800D-403C-8AB0-755ED570AAEE/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0001",
+        "brand_name": "Laptops",
+        "product_id":"03",
+        "product_name": "ROG strix",
+        "sub_product_id":"2",
+        "sub_product_name":"ROG Strix G15 Advantage Edition G513 G513QY-HQ008TS",
+        "price":159990.00,
+        "OS":"Windows 10 Home",
+        "Processor":"AMD Ryzen™ 9 5900HX Mobile Processor",
+        "Graphics":"AMD® Radeon™ RX 6800M",
+        "Memory":"Max Capacity:32GB",
+        "Storage":"1TB M.2 NVMe™ PCIe® 3.0 SSD",
+        "Battery":"90WHrs, 4S1P, 4-cell Li-ion",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/FA39B49E-7B0B-427B-925C-A17652029386/w250"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0002",
+        "brand_name": "Motherboard",
+        "product_id":"04",
+        "product_name": "ROG crosshair",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/197C34D0-0577-4871-9E07-B25035F946FB/w750/h470"
+                
+            }
+        
+    },
+    {
+        "brand_id": "0002",
+        "brand_name": "Motherboard",
+        "product_id":"05",
+        "product_name": "ROG maximus",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/1C9F3C4E-C9E3-44FD-AB8F-3779063BA654/w750/h470"
+                
+            }
+        
+    }, 
+    {
+        "brand_id": "0002",
+        "brand_name": "Motherboard",
+        "product_id":"06",
+        "product_name": "ROG strix",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/F411F3B7-4011-4EAA-BE79-904ABAC5C62E/w750/h470"
+                
+            }
+        
+    }, 
+    {
+        "brand_id": "0002",
+        "brand_name": "Motherboard",
+        "product_id":"07",
+        "product_name": "ROG zenith",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/9DEE2FCB-7E45-49EA-800C-4C6338DC97D5/w750/h470"
+                
+            }
+        
+    }, 
+    {
+        "brand_id": "0003",
+        "brand_name": "Graphics cards",
+        "product_id":"08",
+        "product_name": "ROG strix",
+        "product_image":
+            {
+                "url": "https://dlcdnwebimgs.asus.com/gain/DEE6188E-1B50-4734-80F0-71445F3E3E4C/w750/h470"
+                
+            }
+        
+    },       
+
+{
+	"brand_id": "0004",
+	"brand_name": "Monitors",
+    "product_id":"09",
+	"product_name": "ROG Strix XG32VQ",
+	"product_image":
+		{
+			"url": "https://i.postimg.cc/v8v8NL8m/srrix-xg32vq.png"
+			
+		}
+	
+},
+{
+	"brand_id": "0004",
+	"brand_name": "Monitors",
+    "product_id":"10",
+	"product_name": "ROG Strix XG248Q",
+	"product_image":
+		{
+			"url": "https://i.postimg.cc/qRZFbxMz/strix-xg248q.png"
+			
+		}
+},
+{
+	"brand_id": "0004",
+	"brand_name": "Monitors",
+    "product_id":"11",
+	"product_name": "ROG Strix XG32VC",
+	"product_image":
+		{
+			"url": "https://i.postimg.cc/pV7wLmdH/strix-xg32vc.png"
+			
+		}
+},
+{
+	"brand_id": "0004",
+	"brand_name": "Monitors",
+    "product_id":"12",
+	"product_name": "ROG Swift 360z PG259QNR",
+	"product_image":
+		{
+			"url": "https://i.postimg.cc/26PNMybr/swift-360z.png"
+			
+		}
+},
+{
+	"brand_id": "0005",
+	"brand_name": "Phones",
+    "product_id":"13",
+	"product_name": "ROG phone 6pro",
+    "price":89999.00,
+    "OS":"android 12",
+    "Processor":"Qualcomm Snapdragon 8+ ",
+    "Storage":"512GB",
+    "Display":"17.22cm",
+    "Memory":"18GB",
+    "Battery":"6000mh",
+	"product_image":
+		{
+			"url": "https://dlcdnwebimgs.asus.com/gain/FB338DAC-B312-4D25-A7A3-DBDBDBC123CA/w250"
+		}
+},
+{
+	"brand_id": "0005",
+	"brand_name": "Phones",
+    "product_id":"14",
+	"product_name": "ROG phone 6",
+    "price":71999.00,
+    "OS":"android 12",
+    "Processor":"Qualcomm Snapdragon 8+ ",
+    "Storage":"256GB",
+    "Display":"17.22cm",
+    "Memory":"12GB",
+    "Battery":"6000mh",
+	"product_image":
+		{
+			"url": "https://dlcdnwebimgs.asus.com/gain/9453D60E-F7DD-40AA-A0A5-7AF57EA85E23/w250"
+			
+		}
+},
+{
+	"brand_id": "0005",
+	"brand_name": "Phones",
+    "product_id":"15",
+	"product_name": "ROG phone 5s",
+    "price":49999.00,
+    "OS":"android 11",
+    "Processor":"Qualcomm Snapdragon 888+ ",
+    "Storage":"128GB",
+    "Display":"17.22cm",
+    "Memory":"12GB",
+    "Battery":"6000mh",
+	"product_image":
+		{
+			"url": "https://dlcdnwebimgs.asus.com/gain/3C7AF950-F88D-40D8-93FE-B49C4F26EAA2/w250"
+			
+		}
+},
+{
+	"brand_id": "0005",
+	"brand_name": "Phones",
+    "product_id":"16",
+	"product_name": "ROG phone 5spro",
+    "price":79999.00,
+    "OS":"android 11",
+    "Processor":"Qualcomm Snapdragon 888+ ",
+    "Storage":"512GB",
+    "Display":"17.22cm",
+    "Memory":"18GB",
+    "Battery":"6000mh",
+	"product_image":
+		{
+			"url": "https://dlcdnwebimgs.asus.com/gain/C0F4474C-F835-4031-9B11-F7F55CF1A2BA/w250"
+			
+		}
+}
+
+
+]
